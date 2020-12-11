@@ -78,15 +78,7 @@ header{
     margin-left:var(--mb-3);
     margin-right:var(--mb-3);
 }
-.button{
-    display: inline-block;
-    background: var(--primary-color);
-    color: white;
-    padding: 1rem;
-    font-size: var(--small-font-size);
-    font-weight: var(--font-semi);
-    transition: .3s;
-}
+
 .collection__container{
     row-gap:2rem;
     margin: auto;
